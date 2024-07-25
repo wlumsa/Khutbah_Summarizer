@@ -4,22 +4,27 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api.formatters import TextFormatter
 
 # video_link = input('Please Enter Video Link: ')
-video_link = 'https://www.youtube.com/watch?v=liJVSwOiiwg&ab_channel=WebbyFan'
+video_link = 'https://www.youtube.com/watch?v=9iVQFaRaNV8'
 
 stringToList = list(video_link)
 s = stringToList[32:43] #grabs id
 video_id = ''.join([str(elem) for elem in s])  #converts id to string
 print(f"VideoID = {video_id}")
 
-transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'])
+transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'], preserve_formatting=True) #gets a list of dictionaries of the transcript
 
 formatter = TextFormatter()
 text_formatted = formatter.format_transcript(transcript)
 print(text_formatted)
 
 
+with open("transcript.txt", "w") as file:
+
+    file.write(text_formatted)
+
 
 #Now that we got the text we need to summarize it 
+
 
 
 

@@ -1,0 +1,86 @@
+welcome to this demonstration of the
+readme file generator are you tired of
+spending countless hours creating a
+readme file for your project this readme
+generator is here to help with just a
+few simple questions you can generate a
+professional looking readme file that
+includes all the necessary information
+about your project
+this tool is especially useful for
+developers who wants to Showcase their
+projects on their portfolio or GitHub
+repo
+in this video I'll walk you through the
+process of using this generator step by
+step so let's get started
+now this generator is written in
+JavaScript and node.js let's start by
+taking a look at the code for the
+Javascript file used in a generator
+the JavaScript code is divided into two
+JavaScript files the first JS file is
+called index.js and it prompts the user
+with questions to gather information
+about the project and the second
+Javascript file called generate
+markdown.js uses the user input
+information to generate the readme file
+and the questions are defined in an
+array of objects with each object
+representing a question type name and
+message
+the editor type prompts allows you to
+input larger text responses that require
+more than one line by using this type
+you can open a text editor in the
+terminal where you can type or paste
+your text responses the list type
+prompts displays a list of options to
+the user and the user can select one
+option from the list
+now this section of the code checks
+whether the user entered a title or not
+and if the user enters a title a title
+will be displayed in the markdown file
+now if the user does not enter a text
+this section will not be included in a
+generator readme file now to run the
+generator open your terminal and
+navigate to the directory where the
+generator files are located then run the
+command node index.js you can also type
+node index and it will still work
+this will start the generator and prompt
+you with a series of questions about
+your project such as the project title
+description installation instructions
+usage instructions and so on and I will
+talk more about the content of the
+readme in a minute
+as you answer each question the
+generator will store your responses in
+an object once you've answered all the
+questions the generator will use that
+object to dynamically generate the
+readme file
+the generated file will include all the
+information you provided formatted as a
+nicely styled markdown file
+let's have a look at an example of the
+generated readme file as you can see it
+includes the readme's title a table of
+contents that links to each section of
+the Ruby file a description of the
+project as entered by the user
+installation instructions usage
+instructions contribution guidelines
+instructions for testing the project
+portfolio and contact information and
+the license under which the project is
+released
+and that's it with this readme generator
+you can quickly and easily create
+professional looking readme files for
+your GitHub projects so thank you for
+watching and enjoy
