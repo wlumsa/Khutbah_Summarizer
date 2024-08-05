@@ -1,86 +1,510 @@
-welcome to this demonstration of the
-readme file generator are you tired of
-spending countless hours creating a
-readme file for your project this readme
-generator is here to help with just a
-few simple questions you can generate a
-professional looking readme file that
-includes all the necessary information
-about your project
-this tool is especially useful for
-developers who wants to Showcase their
-projects on their portfolio or GitHub
-repo
-in this video I'll walk you through the
-process of using this generator step by
-step so let's get started
-now this generator is written in
-JavaScript and node.js let's start by
-taking a look at the code for the
-Javascript file used in a generator
-the JavaScript code is divided into two
-JavaScript files the first JS file is
-called index.js and it prompts the user
-with questions to gather information
-about the project and the second
-Javascript file called generate
-markdown.js uses the user input
-information to generate the readme file
-and the questions are defined in an
-array of objects with each object
-representing a question type name and
-message
-the editor type prompts allows you to
-input larger text responses that require
-more than one line by using this type
-you can open a text editor in the
-terminal where you can type or paste
-your text responses the list type
-prompts displays a list of options to
-the user and the user can select one
-option from the list
-now this section of the code checks
-whether the user entered a title or not
-and if the user enters a title a title
-will be displayed in the markdown file
-now if the user does not enter a text
-this section will not be included in a
-generator readme file now to run the
-generator open your terminal and
-navigate to the directory where the
-generator files are located then run the
-command node index.js you can also type
-node index and it will still work
-this will start the generator and prompt
-you with a series of questions about
-your project such as the project title
-description installation instructions
-usage instructions and so on and I will
-talk more about the content of the
-readme in a minute
-as you answer each question the
-generator will store your responses in
-an object once you've answered all the
-questions the generator will use that
-object to dynamically generate the
-readme file
-the generated file will include all the
-information you provided formatted as a
-nicely styled markdown file
-let's have a look at an example of the
-generated readme file as you can see it
-includes the readme's title a table of
-contents that links to each section of
-the Ruby file a description of the
-project as entered by the user
-installation instructions usage
-instructions contribution guidelines
-instructions for testing the project
-portfolio and contact information and
-the license under which the project is
-released
-and that's it with this readme generator
-you can quickly and easily create
-professional looking readme files for
-your GitHub projects so thank you for
-watching and enjoy
+bar
+AB
+my de respected brothers and
+sisters it is a great blessing of Allah
+subhah wa ta'ala that in today's day and
+age Allah has given us IM in a time that
+mentions that a time will come where in
+the morning a person will be a Muslim
+but by the time the Night Comes he has
+left the fold of Islam and a person will
+be Muslim at night but by the morning
+comes he will have left Islam Today
+alhamdulillah me coming back after 8
+months doing a seen this number of
+brothers sitting in a bigger bigger room
+that we have
+now there something that is making me
+very happy and I'm sure making Allah
+even more happier for us to see that the
+effort since when I was in first year
+what it was then and now I'm in fourth
+year the change that we have seen and
+and and the and the jazba the the
+passion that we have seen in the in the
+University students at laier is
+something that's very wholesome and it's
+it makes my heart melt to be honest with
+you and the month of Ramadan is not too
+far away the month of Ramadan is not too
+far away what I want to to to discuss
+today with all of us is for the last
+eight months right I I been off of
+school doing different things and I had
+a realization that I am a I
+became but it's becoming a only
+memorizing it once and putting on the
+Shelf is that what doing is is that the
+Quran that you do it once you leave thei
+once in a year and that's how you put it
+away no Allah this Quran that Allah
+subhana has given us Allah
+says that have not pondered upon the
+Quran or is their heart
+closed Allah is asking a question a
+rhetorical question the answer is clear
+asking us we have revealed this
+book that who has revealed this book who
+has revealed it who is behind it the one
+who has created the earth and the skies
+that he lifted high this book that Allah
+has given us is such a powerful book
+I tell you right now that this book The
+mentions that this of Allah on the day
+of it will be either against you or or
+with you and either of you know the the
+witness that either it please for you or
+against you and both won't be rejected
+if the Quran pleas on your case in front
+of Allah subhana wa tala it acts like a
+lawyer in front of Allah that Allah will
+not dismiss it Allah will take the
+quran's witness for you very seriously
+and at the same time a person who has
+left the
+Quran Allah mentioned in in in in the
+Quran on that day he will say to Allah
+Allah some people in my have left the
+Quran that he will make a complaint to
+Allah subhana wa taala this book the
+Quran Allah mentions an ay for us to
+understand
+something
+that if we were to R this book this
+entire book this entire revelation of
+ours onto a mountain onto a mountain the
+mountain would crush tremble become into
+cotton for what reason because the fear
+of Allah that this book has been
+revealed upon the mountain what is for
+me what is excuse that a mountain that
+has no the mountain will not be you know
+held count on day of is going to perish
+then what excuse and what relief and
+what how how am I not stressing that
+such a book has been revealed that Allah
+is saying if we put this on the mountain
+the mountain would have disappeared
+crushed
+trembled and the mountain example the
+mountain Allah mentioned in different
+places as
+well do not become
+arrogant you cannot you know build the
+Earth with your hands you cannot destroy
+the Earth with your hands
+and you cannot move the mountains what's
+your ego from Allah is asking us
+this I take oath I'm not going to
+mention some examples that I see on the
+internet some motivational incidents
+with the Quran I'm going to tell you
+something from my own personal life and
+when I was before I joined University in
+grade 12 I had a brother before before
+Co hit and he was trying to change his
+life he had a tattoo Pakistani brother
+had a tattoo on the on the wrong side of
+of of of on the wrong side he was not on
+the de but he had that realization me
+and him at that time S A cricketer who
+also after Cricket changed his life grew
+a beard and left and he talks about his
+life before Cricket or when he was
+playing Cricket how he was and what he
+became after so me and him are both
+going to go meet s and you know listen
+to his lecture and what happened is co
+hit after that we went to this one
+lecture there was few more plan we
+wanted to meet s again but Co hit and
+when Co hit this brother that I
+know as I mentioned his his his story he
+had he was doing whatever he was doing
+whatever he wasn't on his Dean at all
+and I'm not saying you know just common
+sense he was complete other side his
+parents were crying for him and he's not
+young he's old than all of us he's 28
+now maybe so what happened during Co is
+that he had this realization he studying
+journalism at that time he realized that
+this journalism I'll be I'll get this
+degree regardless but during Co he had a
+realization that how can I improve
+myself how can I become the best version
+of my of myself what ended up happening
+is that he started memorizing the Quran
+and people will say at this age you have
+a tattoo like look everybody knows you
+like everybody knows who you are you got
+memorize the Quran now what's the point
+what's the point why are you going to
+memorize it you cannot you know fix your
+reputation up you are who you are you
+are known as who you are are known as
+but what they didn't let him stop him he
+grinded alhamdulillah and now just last
+week I met him and he memorized the
+entire Quran
+he he memorized the entire Quran from he
+didn't know he was born in a Muslim
+family but he went from zero nothing but
+what was it Allah is saying in the
+Quran in theah
+before Allah is saying
+what and Allah is your I have many any
+time in the Surah what is Allah
+saying we have made the Quran easy to
+remember so is anyone that wants to
+memorize
+it we have made the Quran easy to
+remember so is it anyone that wants to
+memorize
+it the same brother that I see now he's
+wearing a imama has a beard his face has
+changed his face has Chang it wasn't the
+ordinary it wasn't Mac it wasn't Sephora
+it wasn't a skincare that changed his
+face what was it it I'm not saying
+that's wrong what was it that this
+Natural Glow you see his face and you
+feel some awe you this person is not the
+same person what change is that the
+Quran enter his heart Allah mentioned
+the
+Ayah Allah mentions when some
+people
+when they hear what was revealed upon
+the prophets I the Quran the previous
+books but in this Ayah the Quran that
+when they hear what was revealed upon
+the
+prophet they become they become they
+become so emotional they cry for what
+reason because of the recognization of
+the H because these ayats hit their
+heart and hits their soul and their
+natural intuition and their intuition
+recognizes this their recognize that
+these ay are truly for my Lord and what
+happens they say
+what oh my Lord they say oh my Lord I
+have
+believed and count me amongst the one
+who are witnesses that you have revealed
+this book Ramadan is around the corner
+the Quran whoever puts himself with the
+Quran right this unclaim your power know
+leave this that I will do I will pass my
+exams I will get this job I will get
+this car I will get this house I will do
+this that leave everything you have no
+power connect yourself with the Quran
+and Allah Peg yourself Peg yourself like
+you know when currencies are pegged be
+behind a certain commodity then it's
+safe for investors say you know it's
+pegged by gold or it's pegged by this
+and it's going to go up so they're not
+scared when you Peg yourself with the
+Quran the Quran only goes up it doesn't
+go down the Quran never depreciates
+right never the Quran never goes down in
+value
+so if you Peg yourself with the Quran
+and you become a man of the Quran or a
+woman of the Quran then you will see the
+Baraka in your life Allah mentioned also
+in the
+Quran because his were revealed he was
+he was he was uh you know he was he was
+stressed for us he was worried about us
+because these are commands of Allah
+Allah saying
+what my beloved one of the names
+is
+we have not revealed the Quran to be a
+burden upon you to make you overwhelmed
+to make you stressed out rather what is
+the purpose of the
+Quran this is except this is what a
+reminder for who for
+everybody the one who fear Allah this a
+reminder for them today one thing you
+have to realize one thing I have been
+realizing as well is we give these
+copies to reverts right these copies of
+Quran have I read it
+myself that this I gave it to my my
+friend wants to become Muslim I give him
+the copy of the Quran how I even read
+that same copy and then we and then we
+say subh revers are on their de mallah
+and we as born Muslims are not what's
+the difference because the book that you
+gave them you haven't read yourself they
+read that book they became Muslim
+because of choice you became Muslim
+because you're born in Muslim
+family what he says he says what he says
+that this Dean cannot be inherited it
+has to be learned who is Al Talib an
+average folk an average joke Al is from
+one of the it's from the
+best ancestries from the best
+Generations from the best of people he's
+a sahaba if that's not good enough he's
+from the Sal if that's not good enough
+he is the cousin of I don't know if you
+any better than that but he's saying
+that this religion cannot be inherited
+it has to be
+learned my name is Ali or my name is
+whatever my name is do I even know which
+sahab this was or what my name what
+significance it has so for me to
+understand that this Quran the month is
+coming the month of the Quran is
+coming that this month Ramadan this
+month of
+Ramadan Allah says we have revealed the
+Quran in this month of Ramadan for what
+reason this is for the guidance of
+humanity so for us to realize that this
+Quran is the solution many of times when
+somebody asks you oh what sect are you
+we say oh no I'm not a sect I follow
+Quran and Sunnah do you really do you
+really follow Quran andah you
+theoretically you do but have you even
+read what the Quran is saying but you
+say I follow Quran andah you haven't
+even looked in the Quran what do you
+mean follow Quran and Sunnah you have to
+understand what you're claiming I can't
+claim I know this person I don't even
+know him I don't have his contact at the
+same time at the same time this Quran is
+not only a blessing upon the one who
+memorized it and at the same time if you
+the had I can go on and on but have a
+limited time what what I'm trying to
+here is if you struggle with the Quran
+the Hadith mentioned it's not a weak
+Hadith the Hadith mentioned the one that
+reads the Quran fluently eloquently he
+gets one good deed but the one who
+struggles but he continues to push he
+gets two
+Deeds there's not a bigger incentive
+than this Allah wants to learn this
+Quran and it is not that this Quran if
+you learn somebody gets paid or you know
+when when reverts become Muslim it's not
+like I get paid it's not like nobody
+gets paid right but what happened what's
+the joy that somebody has become a
+Muslim somebody has learned a de for
+Allah what does Allah
+say the one the one who repents to Allah
+sincere
+repentance and he believes in Allah and
+the everything of
+De he does good deeds what is going to
+happen for this
+person that Allah will make his bad
+Deeds the one that he did before all his
+vices become into Good Deeds is it any
+Bank you ow them a million dollars and
+they will say no I forgive the million
+dollars but let me give you a million on
+top is there anything the entire Monet
+will collapse the economy of the world
+will collapse if that BEC some principle
+but for Allah there's no limit for Al
+there is no limit there is no recession
+for Allah you asking for repentance not
+only does he forgive you but he says I
+change your good deeds into something
+good your bad deeds into something good
+this is Allah this is Allah my
+brothers
+for
+ald
+[Music]
+my dear respected brothers and
+sisters one thing I want to mention an
+an analogy that I want to mention is
+that if somebody leaves you undelivered
+how do you feel
+for about deliver let's talk from from
+the bottom somebody doesn't reply to you
+at all right somebody for example you
+text somebody and you want something
+good maybe I'm texting as saying that we
+have a midterm tomorrow make sure you
+learn this the professor this you were
+in class and leaves me on red or leaves
+me on delivered I'm going to be like bro
+I didn't ask you to link me or do
+something like that I asked you for what
+I was trying to help you and you left me
+undelivered right it isn't it hurts the
+person it's like I was trying to do
+something for you and you ignore that as
+well so how many of us have left Allah
+and delivered I want to ask you this
+question that how many of us have left
+Allah deler the message has came he has
+came I have put no effort to memorize
+and it's not that Allah has some benefit
+from me learning the Quran rather Allah
+mentions the principle of Life politics
+economy everything personal life
+everything relationship everything
+emotional intelligence and Allah
+mentioned past past examples as well but
+for me to know no not open the book of
+Allah and just leave leave you UND
+delivered some of us have left you unre
+which not anything better but at least
+we have opened they looked at it read a
+few Ayah and try to understand a little
+bit but this is not enough this is not
+enough the what was the a mention the
+Quan They heard and they obeyed they
+heard and they obeyed so if somebody
+text you if Allah has given you this
+message the Quran this message Allah say
+a message today via IM message or via
+text this was a message revealed and I
+have not opened it
+what excuse would I have in from Allah
+subhana waala that same reer I mentioned
+the day he became Muslim or before he
+even became Muslim he started reading
+the message let me look at the message
+first let me see what the message says
+is it benefit for me does it make sense
+to me does it add up it does then they
+become Muslim they become the best of
+Muslims same thing with how did they
+become best of
+Muslims this was was was read was
+recited by the sister of who the
+sister and he he said what are these
+Ayah then he
+asked if you are into Rhythm I like
+Rhythm I like poetry I'm telling you
+right now this I'm not trying to make
+anybody laugh here but if you think
+little baby has lyrics or Drake has
+lyrics I'm telling you is garbage it's
+garbage because at that time the quray
+used to actually compete in poetry they
+used to be like we are the best of poets
+I'm going to make dist track against you
+how they have it in today's day and age
+they had it back then too and in fact
+one this one sahabi Z his name was
+H amazing poet amazing poet so was
+coming into the city and all the qur all
+the all all the enemies of Islam said
+when this man comes you better make a
+distract at the moment whenever you see
+him you think of
+something came he seen him and he he The
+Poetry he made was for
+him he mentions you know such a man that
+I seen as if he was created the way he
+wants to be created the way he wants to
+be such a man that when I looked at him
+and and was another lady that was was
+was going by uh to Madina and he was
+they passed by a a a tent a campsite
+there was an old lady there she had a
+skinny goat and said can I can I can I
+like use this goat can I can can I
+extract the milk from this goat and she
+said look at this goat it doesn't even
+have muscle on it we talking about the
+milk said let me try okay you know what
+like if you want to try go ahead so much
+milk came from that goat that it filled
+buckets and when the lady's husband came
+home she said he said she said he asked
+what happened to this go it was dying
+and now look at it what happened to it
+overnight or over the DAT she said such
+a man came of such a a el such such an
+Elegance that when I looked at his face
+and I looked at the Moon his face was
+more brighter that he was created in
+such a way that the way he wants to be
+created he was created in such a way
+that no mother will ever give birth
+again to a child such as beautiful as
+him when he spoke it was as if it was
+poetry when he stayed silent it was awe
+that such a magnificence he
+had I want to mention last point before
+in we end this is that the Quran again I
+want to take it back to the Quran that
+why is the best of Messengers he is the
+best of Messengers because the Quran was
+revealed upon him we are the best of
+umah because the Quran was revealed upon
+this umah the month of Ramadan is the
+best of month why because the the Quran
+was was revealed in Ramadan you can
+become the best of people if you connect
+yourself with the Quran and I will give
+the verse as
+well the best of you are the ones who
+learn the Quran and teach it the best of
+you are the ones who learn the Quran and
+teach it so for the ones today I want
+everybody to make the inent intention at
+least whether you're a sister or a
+brother that I will insh one day become
+I will try my best to to keep it very
+very honest with you that do not think
+that I'm a very very very Pi person what
+saves me is the Quran many of times you
+know I I can you know do something wrong
+but what for me no man in my Quran is's
+a in my heart is a Quran that I have to
+hold myself to a higher pedestrial I
+have to hold myself to a higher level
+not because of arrogance not because I'm
+the best in society but rather what that
+Allah has given me something that Allah
+has given me something and he has and
+and and I'll be held account
+before
+before went to seek knowledge his mom
+told him that do not seek knowledge if
+you're not going to apply because this
+same knowledge will be hold will be held
+against you on day of so for us to make
+ni from today Ramadan is not too far
+away Ramadan is not too far away it's
+it's right here around the corner and in
+one more thing we will be doing this
+Ramadan is after eight RA in we will
+have a little bit short session maybe
+five minutes to explain one of the key
+Ayah that we just read read to so
+everybody has has an idea of what's
+being read because sometimes you're and
+it's going on and you go home but
+mention to you what we're reciting
+what's significance the the scenario who
+has it been revealed upon who is talking
+about then it will put a perspective for
+you and in you will be more locked in in
+inshallah
+m
+for
+for
