@@ -3,7 +3,11 @@
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api.formatters import TextFormatter
 from openai import OpenAI
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
+api_key = os.getenv('SUMMARIZER_API_KEY')
 
 # video_link = input('Please Enter Video Link: ')
 video_link = 'https://www.youtube.com/watch?v=voQM-aQHQDI&ab_channel=WLUMSA'
@@ -27,7 +31,7 @@ with open("transcript.txt", "w") as file:
 #Now that we got the text we need to summarize it 
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
-    api_key =  "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"
+    api_key =  api_key
 )
 
 
