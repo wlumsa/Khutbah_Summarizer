@@ -34,10 +34,12 @@ client = OpenAI(
     api_key =  api_key
 )
 
+prompt = f"The following is a transcript from a YouTube video. Please provide a concise and informative summary of the main points, using Islamic Knowledge. Give Bullet points: \n\n{text_formatted}\n\nSummary:"
+
 
 completion = client.chat.completions.create(
   model="meta/llama-3.1-8b-instruct",
-  messages=[{"role":"user","content":text_formatted}],
+  messages=[{"role":"user","content":prompt}],
   temperature=0.2,
   top_p=0.7,
   max_tokens=1024,
